@@ -1,7 +1,7 @@
 # 🎓Tanmay Adithya
 **`Learning Full Stack Development`**
 
-I'm a rookie hacker who frequently attends MLH hackathons. Web Development, DevOps, Graphic Design, Web3, and Open Source are all areas of interest for me. When I'm not coding, I like to write, watch movies and video essays.
+I'm a rookie hacker who frequently attends MLH hackathons. Web Development, DevOps, Graphic Design, and Open Source are all areas of interest for me. When I'm not coding, I like to write, watch movies and video essays.
 
 ---
 
