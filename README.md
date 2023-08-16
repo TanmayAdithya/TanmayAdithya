@@ -12,8 +12,8 @@ Hi! I'm Tanmay Adithya, a rookie hacker passionate about hackathons. My interest
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanmayAdithya&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanmayAdithya&theme=merko&hide_border=false" alt="GitHub Streak Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TanmayAdithya&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TanmayAdithya&theme=merko&hide_border=false" alt="GitHub Streak Stats" />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayAdithya&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /> -->
 </p>
 
