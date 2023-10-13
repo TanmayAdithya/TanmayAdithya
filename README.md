@@ -1,6 +1,6 @@
 # 🎓Tanmay Adithya
 
-Hi! I'm Tanmay Adithya, a rookie hacker passionate about hackathons. My interests include Web Development, DevOps, Graphic Design, and Open-Source projects. Currently, I'm mastering JavaScript, and learning React and Node.js. Feel free to connect with me.
+Hi! I'm Tanmay Adithya, a rookie hacker passionate about hackathons. My interests include Web Development, DevOps, Graphic Design, and Open-Source projects. Currently, I'm learning JavaScript. Feel free to connect with me.
 
 <br>
 
