@@ -1,5 +1,14 @@
 <h1>😊Hey! I'm Tanmay Adithya.</h1>
-I love participating in hackathons. My interests include Web Development and Graphic Design. Currently, I'm learning the MERN Stack. Feel free to connect with me.
+
+  - I'm a React Frontend Developer
+  - I love hackathons; they taught me to work fast
+  - Strategy: Break down complex tasks into smaller pieces for better understanding
+  - Currently expanding skill set by getting familiar with backend development.
+
+<br>
+
+
+Feel free to connect with me. If you're looking for a Frontend Developer who can design an aesthetic UI, user friendly UX, and write developer friendly code. I'm excited to contribute my skills to your project
 
 <br>
 
