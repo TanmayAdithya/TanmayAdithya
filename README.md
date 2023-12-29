@@ -3,8 +3,8 @@
   - I'm a React Frontend Developer
   - I love hackathons; they taught me to work fast
   - Strategy: Break down complex tasks into smaller pieces for better understanding
-  - Currently expanding skill set by getting familiar with backend development.
-
+  - Learn React state management for dynamic content and improved user interfaces
+  - Actively expanding my skill set to include backend development.
 <br>
 
 
