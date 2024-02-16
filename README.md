@@ -1,6 +1,6 @@
 <h1>😊Hey! I'm Tanmay Adithya.</h1>
 
-  - I'm a React Frontend Developer
+  - I'm a Frontend Developer
   - I love hackathons; they taught me to work fast
   - Strategy: Break down complex tasks into smaller pieces for better understanding
   - Learning React state management for dynamic content and improved user interfaces
