@@ -2,11 +2,8 @@
 
   - I'm a Frontend Developer
   - I love hackathons; they taught me to work fast
-  - Strategy: Break down complex tasks into smaller pieces for better understanding
-  - Learning React state management for dynamic content and improved user interfaces
-  - Actively expanding my skill set to include backend development.
-<br>
 
+<br>
 
 Feel free to connect with me. If you're looking for a Frontend Developer who can design an aesthetic UI, user friendly UX, and write developer friendly code. I'm excited to contribute my skills to your project
 
