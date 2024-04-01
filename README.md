@@ -21,10 +21,3 @@ I'm a Fullstack Developer who loves building projects in hackathons
 ### Tools
 
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,windows,ubuntu)](https://skillicons.dev)
-
-
-
-
-<br>
-
-<br>
