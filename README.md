@@ -22,4 +22,4 @@ I'm a frontend developer who enjoys crafting web applications with sleek and min
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,windows,ubuntu)](https://skillicons.dev)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TanmayAdithya&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TanmayAdithya&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
