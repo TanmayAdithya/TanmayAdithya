@@ -1,8 +1,7 @@
 <h1>😊Hey! I'm Tanmay Adithya.</h1>
 
-I'm a Fullstack Developer who loves building projects in hackathons
+I'm a frontend developer who enjoys crafting web applications with sleek and minimalist user interfaces, focusing on creating seamless and intuitive user experiences.
 
-<br>
 
 # Languages and Tools
 
