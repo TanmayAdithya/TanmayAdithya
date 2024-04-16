@@ -7,15 +7,19 @@ I'm a frontend developer who enjoys crafting web applications with sleek and min
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,ts,react,tailwind,astro)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,ts,react,redux,tailwind,astro)](https://skillicons.dev)
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,postman)](https://skillicons.dev)
 
 ### Database
 
 [![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+
+### Design
+
+[![Design](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
 
 ### Tools
 
