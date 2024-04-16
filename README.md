@@ -7,7 +7,7 @@ I'm a frontend developer who enjoys crafting web applications with sleek and min
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,ts,react,tailwind)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,ts,react,tailwind,astro)](https://skillicons.dev)
 
 ### Backend
 
