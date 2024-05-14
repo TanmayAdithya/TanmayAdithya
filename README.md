@@ -1,6 +1,6 @@
 <h1>😊Hey! I'm Tanmay Adithya.</h1>
 
-I'm a frontend developer who enjoys crafting web applications with sleek and minimalist user interfaces, focusing on creating seamless and intuitive user experiences.
+I'm a fullstack developer who enjoys crafting web applications with aesthetic and minimalist user interfaces as well as solving complicated logic, until I feel like my brain is about to explode (but that's when the real magic happens).
 
 
 # Languages and Tools
