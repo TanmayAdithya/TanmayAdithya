@@ -23,7 +23,7 @@ I'm a fullstack developer who enjoys crafting web applications with aesthetic an
 
 ### Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,windows,ubuntu)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,vscode,windows)](https://skillicons.dev)
 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=TanmayAdithya&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in) -->
