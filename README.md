@@ -8,6 +8,7 @@ I'm a fullstack developer who enjoys crafting web applications with aesthetic an
 ### Frontend
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,ts,react,redux,tailwind,astro,next)](https://skillicons.dev)
+<img href="https://ui.shadcn.com/" width="48" style="border: 0; border-radius: 8px; margin-left: 4px" src="https://i.postimg.cc/yxcWQsB6/shadcn-modified-1.png" alt="Shadcn" />
 
 ### Backend
 
