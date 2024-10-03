@@ -16,7 +16,7 @@ I'm a fullstack developer who enjoys crafting web applications with aesthetic an
 
 ### Database
 
-[![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mongodb,redis,mysql,postgres,prisma)](https://skillicons.dev)
 
 ### Design
 
