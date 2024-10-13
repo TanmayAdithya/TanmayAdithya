@@ -3,8 +3,8 @@
 I'm a fullstack developer who enjoys crafting web applications with aesthetic and minimalist user interfaces as well as solving complicated logic until brain explodes.
 
 * 🌍  I'm based in Hyderabad, India
-* 🚀  I'm currently working on [Shifu](http://github.com/TanmayAdithya/Shifu)
-* 🧠  I'm learning Redis
+* 🚀  I'm currently contributing to [march](http://github.com/marchhq/march)
+* 🧠  I'm learning FastAPI
 * 🤝  I'm open to working with startups or FOSS projects.
 
 
