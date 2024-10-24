@@ -4,7 +4,7 @@ I'm a fullstack developer who enjoys crafting web applications with aesthetic an
 
 * 🌍  I'm based in Hyderabad, India
 * 🚀  I'm currently contributing to [march](http://github.com/marchhq/march)
-* 🧠  I'm learning FastAPI
+* 🧠  I'm learning Remix
 * 🤝  I'm open to working with startups or FOSS projects.
 
 
